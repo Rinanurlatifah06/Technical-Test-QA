@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login ke dalam aplikasi OrangeHRM</description>
+   <name>login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae6a464a-216b-46b3-91f6-e5d5f142786d</testCaseGuid>
+</TestCaseEntity>

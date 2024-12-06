@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menambahkan satu data pegawai baru di menu PIM</description>
+   <name>addEmployee</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>861a39fa-5dc1-4d59-87d9-b136a400c93a</testCaseGuid>
+</TestCaseEntity>

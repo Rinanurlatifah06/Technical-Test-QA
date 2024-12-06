@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mengedit employee yang sudah ditambahkan</description>
+   <name>editEmployee</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6eabdf77-a18a-41c8-9e7d-c8893c162e15</testCaseGuid>
+</TestCaseEntity>

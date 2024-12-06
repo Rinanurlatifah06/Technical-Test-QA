@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mencari employee yang sudah ditambahkan</description>
+   <name>searchEmployee</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b110cd3b-6b5d-4c34-a5a9-ff4ea17e4630</testCaseGuid>
+</TestCaseEntity>

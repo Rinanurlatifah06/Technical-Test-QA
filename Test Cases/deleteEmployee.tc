@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menghapus employee yang sudah ditambahkan</description>
+   <name>deleteEmployee</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>549e87eb-eff5-4740-94a1-9b0233d7a75d</testCaseGuid>
+</TestCaseEntity>
